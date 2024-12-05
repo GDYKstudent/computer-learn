@@ -1,3 +1,6 @@
+资料领取：
+[Releases · GDYKstudent/computer-learn](https://github.com/GDYKstudent/computer-learn/releases)
+
 学习计算机操作系统是一个系统性的过程，涉及到理论知识和实践操作。以下是学习计算机操作系统的一般过程，以及一些关键知识点和案例代码的简要介绍。
 
 ### 学习过程：
